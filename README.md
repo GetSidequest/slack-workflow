@@ -64,6 +64,6 @@ Sidequest is not a member of the channel
 
 ## Support
 
-For any issues or inquiries, contact us at filip@getsidequest.app.
+For any issues or inquiries, contact us at hello@getsidequest.app.
 
  ---
